@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="320" viewBox="0 0 320 320" role="img" aria-label="Fortune Fresh Millet">
+  <defs>
+    <linearGradient id="bg-p-attaricedalmilletandotherflours3" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="hsl(212 25% 96%)"/>
+      <stop offset="100%" stop-color="hsl(144 30% 90%)"/>
+    </linearGradient>
+    <pattern id="dot-p-attaricedalmilletandotherflours3" width="12" height="12" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="1.2" fill="#E9C46A" opacity="0.12"/>
+    </pattern>
+  </defs>
+  <rect width="320" height="320" fill="url(#bg-p-attaricedalmilletandotherflours3)"/>
+  <rect width="320" height="320" fill="url(#dot-p-attaricedalmilletandotherflours3)"/>
+  
+        <ellipse cx="160" cy="70" rx="90" ry="28" fill="#E9C46A"/>
+        <path d="M70 70 v150 a20 20 0 0 0 20 20 h160 a20 20 0 0 0 20 -20 V70" fill="#FFF8E8" stroke="#7A5C10" stroke-width="2"/>
+        <ellipse cx="160" cy="70" rx="90" ry="28" fill="none" stroke="#7A5C10" stroke-width="2"/>
+        <rect x="100" y="120" width="120" height="90" rx="10" fill="#fff" opacity="0.94"/>
+      
+  <text x="160" y="108" text-anchor="middle" font-size="28">🌾</text>
+  <text x="160" y="148" text-anchor="middle" font-family="ui-rounded, system-ui, -apple-system, sans-serif" font-size="11" font-weight="800" fill="#7A5C10" letter-spacing="0.04em">FORTUNE</text>
+  <text x="160" y="166" text-anchor="middle" font-family="ui-rounded, system-ui, -apple-system, sans-serif" font-size="12" font-weight="700" fill="#1a1a1a"><tspan x="160" dy="0">Fresh Millet</tspan></text>
+  <text x="160" y="186" text-anchor="middle" font-family="ui-rounded, system-ui, -apple-system, sans-serif" font-size="10" font-weight="600" fill="#666">5 kg · ₹439</text>
+  <rect x="12" y="12" width="44" height="18" rx="4" fill="#E9C46A"/>
+  <text x="34" y="25" text-anchor="middle" font-family="system-ui,sans-serif" font-size="9" font-weight="800" fill="#fff">PACK</text>
+</svg>

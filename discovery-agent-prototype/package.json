@@ -1,0 +1,31 @@
+{
+  "name": "discovery-agent-prototype",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint",
+    "scrape:blinkit": "node scripts/scrape-blinkit.mjs",
+    "catalog:build": "node scripts/build-blinkit-catalog.mjs",
+    "catalog:packshots": "node scripts/generate-product-packshots.mjs",
+    "catalog:photos": "node scripts/fetch-real-images.mjs",
+    "catalog:rebuild": "node scripts/rebuild-catalog-products.mjs && node scripts/generate-product-packshots.mjs"
+  },
+  "dependencies": {
+    "next": "16.2.12",
+    "react": "19.2.4",
+    "react-dom": "19.2.4"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "16.2.12",
+    "tailwindcss": "^4",
+    "typescript": "^5"
+  }
+}

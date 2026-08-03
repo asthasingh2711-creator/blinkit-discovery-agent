@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="320" viewBox="0 0 320 320" role="img" aria-label="Himalaya Fresh Bandaid">
+  <defs>
+    <linearGradient id="bg-p-healthpharmabandaidandwoundcare3" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="hsl(355 25% 96%)"/>
+      <stop offset="100%" stop-color="hsl(230 30% 90%)"/>
+    </linearGradient>
+    <pattern id="dot-p-healthpharmabandaidandwoundcare3" width="12" height="12" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="1.2" fill="#2D6A4F" opacity="0.12"/>
+    </pattern>
+  </defs>
+  <rect width="320" height="320" fill="url(#bg-p-healthpharmabandaidandwoundcare3)"/>
+  <rect width="320" height="320" fill="url(#dot-p-healthpharmabandaidandwoundcare3)"/>
+  
+        <rect x="86" y="48" width="148" height="232" rx="14" fill="#E8F5EE" stroke="#1B4332" stroke-width="2"/>
+        <rect x="86" y="48" width="148" height="44" rx="14" fill="#2D6A4F"/>
+        <rect x="86" y="78" width="148" height="14" fill="#1B4332" opacity="0.85"/>
+        <rect x="104" y="120" width="112" height="110" rx="8" fill="#fff" opacity="0.94"/>
+      
+  <text x="160" y="108" text-anchor="middle" font-size="28">💊</text>
+  <text x="160" y="148" text-anchor="middle" font-family="ui-rounded, system-ui, -apple-system, sans-serif" font-size="11" font-weight="800" fill="#1B4332" letter-spacing="0.04em">HIMALAYA</text>
+  <text x="160" y="166" text-anchor="middle" font-family="ui-rounded, system-ui, -apple-system, sans-serif" font-size="12" font-weight="700" fill="#1a1a1a"><tspan x="160" dy="0">Fresh Bandaid</tspan></text>
+  <text x="160" y="186" text-anchor="middle" font-family="ui-rounded, system-ui, -apple-system, sans-serif" font-size="10" font-weight="600" fill="#666">25 g · ₹32</text>
+  <rect x="12" y="12" width="44" height="18" rx="4" fill="#2D6A4F"/>
+  <text x="34" y="25" text-anchor="middle" font-family="system-ui,sans-serif" font-size="9" font-weight="800" fill="#fff">PACK</text>
+</svg>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="320" viewBox="0 0 320 320" role="img" aria-label="Drools Classic Treats">
+  <defs>
+    <linearGradient id="bg-p-petcaretreats2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="hsl(213 25% 96%)"/>
+      <stop offset="100%" stop-color="hsl(146 30% 90%)"/>
+    </linearGradient>
+    <pattern id="dot-p-petcaretreats2" width="12" height="12" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="1.2" fill="hsl(33 62% 46%)" opacity="0.12"/>
+    </pattern>
+  </defs>
+  <rect width="320" height="320" fill="url(#bg-p-petcaretreats2)"/>
+  <rect width="320" height="320" fill="url(#dot-p-petcaretreats2)"/>
+  
+        <rect x="118" y="36" width="84" height="28" rx="8" fill="hsl(33 62% 46%)"/>
+        <rect x="128" y="58" width="64" height="18" fill="hsl(33 40% 28%)"/>
+        <path d="M96 88 h128 a16 16 0 0 1 16 16 v168 a20 20 0 0 1 -20 20 H100 a20 20 0 0 1 -20 -20 V104 a16 16 0 0 1 16 -16 z" fill="hsl(146 48% 92%)" stroke="hsl(33 40% 28%)" stroke-width="2"/>
+        <rect x="110" y="120" width="100" height="90" rx="8" fill="#fff" opacity="0.92"/>
+      
+  <text x="160" y="108" text-anchor="middle" font-size="28">🐶</text>
+  <text x="160" y="148" text-anchor="middle" font-family="ui-rounded, system-ui, -apple-system, sans-serif" font-size="11" font-weight="800" fill="hsl(33 40% 28%)" letter-spacing="0.04em">DROOLS</text>
+  <text x="160" y="166" text-anchor="middle" font-family="ui-rounded, system-ui, -apple-system, sans-serif" font-size="12" font-weight="700" fill="#1a1a1a"><tspan x="160" dy="0">Classic Treats</tspan></text>
+  <text x="160" y="186" text-anchor="middle" font-family="ui-rounded, system-ui, -apple-system, sans-serif" font-size="10" font-weight="600" fill="#666">10 pcs · ₹64</text>
+  <rect x="12" y="12" width="44" height="18" rx="4" fill="hsl(33 62% 46%)"/>
+  <text x="34" y="25" text-anchor="middle" font-family="system-ui,sans-serif" font-size="9" font-weight="800" fill="#fff">PACK</text>
+</svg>

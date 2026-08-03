@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="320" viewBox="0 0 320 320" role="img" aria-label="Harpic Fresh Toilet Cleaners">
+  <defs>
+    <linearGradient id="bg-p-cleanersrepellentstoiletcleaners3" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="hsl(107 25% 96%)"/>
+      <stop offset="100%" stop-color="hsl(14 30% 90%)"/>
+    </linearGradient>
+    <pattern id="dot-p-cleanersrepellentstoiletcleaners3" width="12" height="12" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="1.2" fill="hsl(287 62% 46%)" opacity="0.12"/>
+    </pattern>
+  </defs>
+  <rect width="320" height="320" fill="url(#bg-p-cleanersrepellentstoiletcleaners3)"/>
+  <rect width="320" height="320" fill="url(#dot-p-cleanersrepellentstoiletcleaners3)"/>
+  
+        <rect x="112" y="40" width="96" height="24" rx="6" fill="hsl(287 40% 28%)"/>
+        <rect x="104" y="60" width="112" height="16" fill="hsl(287 62% 46%)"/>
+        <path d="M88 84 h144 a12 12 0 0 1 12 12 v168 a18 18 0 0 1 -18 18 H94 a18 18 0 0 1 -18 -18 V96 a12 12 0 0 1 12 -12 z" fill="hsl(14 48% 92%)" stroke="hsl(287 40% 28%)" stroke-width="2"/>
+        <rect x="108" y="130" width="104" height="90" rx="8" fill="#fff" opacity="0.93"/>
+      
+  <text x="160" y="108" text-anchor="middle" font-size="28">🧹</text>
+  <text x="160" y="148" text-anchor="middle" font-family="ui-rounded, system-ui, -apple-system, sans-serif" font-size="11" font-weight="800" fill="hsl(287 40% 28%)" letter-spacing="0.04em">HARPIC</text>
+  <text x="160" y="166" text-anchor="middle" font-family="ui-rounded, system-ui, -apple-system, sans-serif" font-size="12" font-weight="700" fill="#1a1a1a"><tspan x="160" dy="0">Fresh Toilet</tspan><tspan x="160" dy="14">Cleaners</tspan></text>
+  <text x="160" y="200" text-anchor="middle" font-family="ui-rounded, system-ui, -apple-system, sans-serif" font-size="10" font-weight="600" fill="#666">1 kg · ₹394</text>
+  <rect x="12" y="12" width="44" height="18" rx="4" fill="hsl(287 62% 46%)"/>
+  <text x="34" y="25" text-anchor="middle" font-family="system-ui,sans-serif" font-size="9" font-weight="800" fill="#fff">PACK</text>
+</svg>
